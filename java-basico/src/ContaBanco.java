@@ -21,6 +21,6 @@ public class ContaBanco {
 
         System.out.println("Ola, " + nome +", obrigado por criar uma conta no nosso banco, sua a agencia eh " + agencia +", sua conta eh " + numero + " e seu saldo " + saldo + " ja esta disponivel para saque.");
 
-     scanner.close();
+        scanner.close();
     }
 }
