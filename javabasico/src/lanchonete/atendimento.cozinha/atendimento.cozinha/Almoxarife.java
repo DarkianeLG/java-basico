@@ -1,4 +1,4 @@
-package lanchonete.atendimento.cozinha;
+package javabasico.src.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
     private void controlarEntrada() {
